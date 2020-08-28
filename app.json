@@ -10,7 +10,7 @@
     },
     "PREFIX": {
       "description": "Command prefix to use.",
-      "required": true
+      "required": false 
     },
     "GITHUBTOKEN": {
       "description": "Token for github api usage.",
